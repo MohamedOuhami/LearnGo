@@ -26,5 +26,11 @@ func main() {
 
 	// learnStruct()
 
-	learnMethodsInStructs()
+	// learnMethodsInStructs()
+
+	// learnInterface()
+
+	// learnEnums()
+
+	learnError()
 }
